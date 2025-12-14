@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Migrations\\20251214151648_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student_Management\\Migrations\\20251214151648_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\student_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\student_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\controllers\\studentcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\controllers\\studentcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|c:\\users\\kiit\\desktop\\assignments\\student_management\\student_management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC38887-E68E-4B0A-95C5-2BBE874EDF61}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251214151648_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Migrations\\20251214151648_Initial.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Migrations\\20251214151648_Initial.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Migrations\\20251214151648_Initial.cs",
+              "RelativeToolTip": "Student_Management\\Migrations\\20251214151648_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:16:48.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Program.cs",
+              "RelativeToolTip": "Student_Management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:27:39.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentControllers.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Controllers\\StudentControllers.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Controllers\\StudentControllers.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Controllers\\StudentControllers.cs",
+              "RelativeToolTip": "Student_Management\\Controllers\\StudentControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:27:27.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Student_Management\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:26:38.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student_Management.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Student_Management.csproj",
+              "RelativeDocumentMoniker": "Student_Management\\Student_Management.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Student_Management.csproj",
+              "RelativeToolTip": "Student_Management\\Student_Management.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T09:24:26.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Data\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Data\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Data\\StudentDbContext.cs",
+              "RelativeToolTip": "Student_Management\\Data\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:26:13.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Models\\LoginDto.cs",
+              "RelativeToolTip": "Student_Management\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:25:43.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Models\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "Student_Management\\Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:25:28.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Student_Management\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:25:10.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\Models\\Student.cs",
+              "RelativeToolTip": "Student_Management\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:24:50.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Student_Management\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Assignments\\Student_Management\\Student_Management\\appsettings.Development.json",
+              "RelativeToolTip": "Student_Management\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T09:24:14.977Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
